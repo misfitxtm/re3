@@ -44,16 +44,3 @@ Remember that re3 is an actively developed project which doesn't have a final ve
 
 Struct sizes are different then on Windows, so don't enable validating struct sizes. Needlesly to say, your previous savegames will be incompatible.
 Pages 10
-
-    Home
-    Building on FreeBSD
-    Building on Linux
-    Frames as a period of time
-    GTA3 1.0 documentation
-    Possible improvements
-    Possible platform specific features
-    PS2 port
-    Running OpenAL build on Windows
-    VC changes (deprecated)
-
-Clone this wiki locally
